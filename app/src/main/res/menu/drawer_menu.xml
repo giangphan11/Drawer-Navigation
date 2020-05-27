@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mnu_profile" android:title="Profile" android:icon="@drawable/ic_profile"/>
+    <item android:id="@+id/mnu_about" android:title="About" android:icon="@drawable/ic_about"/>
+    <item android:id="@+id/mnu_intro" android:title="Introductions" android:icon="@drawable/ic_intro"/>
+    <item android:id="@+id/mnu_exit" android:title="Exit" android:icon="@drawable/ic_exit"/>
+</menu>
